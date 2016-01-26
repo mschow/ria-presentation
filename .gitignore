@@ -1,0 +1,4 @@
+node_modules
+sampsite/node_modules
+sampsite/data
+*.log

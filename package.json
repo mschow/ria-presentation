@@ -1,0 +1,23 @@
+{
+  "name": "ria-presentation",
+  "version": "1.0.0",
+  "description": "The MongoDB website describes MongoDB as a \"Scalable, open-source, high performance, document oriented database\" platform. Some of those terms are somewhat nebulous. To help elaborate I did some research on what exactly MongoDB is in greater terms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mschow/ria-presentation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mschow/ria-presentation/issues"
+  },
+  "homepage": "https://github.com/mschow/ria-presentation#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "monk": "^1.0.1"
+  }
+}
